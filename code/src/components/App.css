@@ -1,0 +1,21 @@
+/* Styles go here */
+body {
+  height: calc(100vh - 40px);
+  background-color: black;
+  color: gray;
+}
+
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.container-fluid {
+  margin-top: 40px;
+}
+
+.grid {
+  margin: 1.5rem auto;
+}
